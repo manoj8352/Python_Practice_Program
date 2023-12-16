@@ -1,0 +1,5 @@
+a=input("Enter Your Name ")
+a=str(a)
+b=input("enter the day ")
+c=input("enter the year ")
+print("Dear "+a+"," "\nYou have a "+b+ " day to take leave" "\nin this "+c+ " Year")
